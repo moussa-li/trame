@@ -1,0 +1,16 @@
+-InputParameterNum-
+1
+-TypeOfSampleExtraction-
+0
+-TypeOfDataProgress-
+2
+-ROMOrder-
+2
+-TypeOfSurrogate-
+0
+-EnergyRatio-
+0
+-TrainingSampleNum-
+14
+-IndexOfTrainingSample-
+1 2 3 4 5

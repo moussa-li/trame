@@ -1,0 +1,18 @@
+.icon-left-checkbox-on {
+   background-image: url(./../asset/left-show.png)
+}
+.icon-left-checkbox-off {
+   background-image: url(./../asset/left-hide.png)
+}
+.icon-right-checkbox-on {
+   background-image: url(./../asset/left-show.png)
+}
+.icon-right-checkbox-off {
+   background-image: url(./../asset/left-hide.png)
+}
+.icon-bottom-checkbox-on {
+   background-image: url(./../asset/bottom-show.png)
+}
+.icon-bottom-checkbox-off {
+   background-image: url(./../asset/bottom-hide.png)
+}
